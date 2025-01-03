@@ -204,10 +204,9 @@ img{
   padding: 120px 0;
 }
 .core-values{
-  
   display: flex;
   justify-content: center;
-}
+} 
 .core-values ul{
     list-style-type: none;
     display: flex;
@@ -215,6 +214,17 @@ img{
 }
 .core-values .core-li {
   width: calc((100% - 72px) / 4);
+}
+.core-values .core-li .core-li-icons{
+  background-color: #F4F4FD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  border: 1px solid #8E8F99;
+  width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
 }
 .core-values h2{
   visibility: hidden;
