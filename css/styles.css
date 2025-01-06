@@ -367,7 +367,7 @@ footer .container{
 footer div.footer-logo{
   margin-right: 120px;
 }
-footer p{
+footer p:nth-child(1){
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -386,7 +386,7 @@ footer a{
 footer a:hover{
   background-color: #31d0aa;
 }
-footer:focus{
+footer a:focus{
   background-color: #31d0aa;
 }
 footer p{
