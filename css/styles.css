@@ -383,7 +383,7 @@ footer a{
   display: inline-block;
   margin-bottom: 16px;
 }
-footer a:hover{
+footer .icons-ul li a:hover{
   background-color: #31d0aa;
 }
 footer a:focus{
