@@ -344,7 +344,7 @@ ul li{
 .our-team .card .card-content .icons-ul li a:focus{
   background-color: #404bbf;
 }
-.our-team .card .card-content .icons-ul .icons-svg{
+.icons-ul .icons-svg{
   fill: #f4f4fd;
 }
 .card-content-2{
@@ -382,6 +382,12 @@ footer .icons-ul{
 footer a{
   display: inline-block;
   margin-bottom: 16px;
+}
+footer a:hover{
+  background-color: #31d0aa;
+}
+footer:focus{
+  background-color: #31d0aa;
 }
 footer p{
     max-width: 264px;
