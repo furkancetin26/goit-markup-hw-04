@@ -191,7 +191,6 @@ nav ul li .studio:focus{
   height: 4px;
   border-radius: 2px;
   background-color: #404BBF;
-  padding-top: 20px;
   content: "";
   position: absolute;
   left: 0;
